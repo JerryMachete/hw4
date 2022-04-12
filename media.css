@@ -1,0 +1,22 @@
+@media screen and (min-width: 0) and(max-width: 1368px) {
+    .a{
+        height: 200px;
+    }
+    .big-block{
+        flex-direction: column;
+    }
+    .bcdefg-block{
+        width: 100%;
+        height: 300px;
+    }
+    .h{
+        width: 100%;
+        height: 300px;
+    }
+    .box{
+        width: 33.3%;
+        height: 150px;
+    }
+
+
+}

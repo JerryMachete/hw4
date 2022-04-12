@@ -1,0 +1,40 @@
+.container {
+    width: 1200px;
+    background: mediumaquamarine;
+    min-height: 700px;
+    margin: 0 auto;
+}
+
+.a{
+    width: 100%;
+    height: 200px;
+    background: silver;
+}
+.big-block{
+    width: 100%;
+    min-height: 600px;
+    background: coral;
+    display: flex;
+}
+.bcdefg-block{
+    width: 75%;
+    height: 600px;
+    background: mediumpurple;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 33.3%;
+    height: 300px;
+    background: radial-gradient(circle, blue,white);
+
+}
+
+.h{
+    width: 25%;
+    height: 600px;
+    background: green;
+
+}
+
+
